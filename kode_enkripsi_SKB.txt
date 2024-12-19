@@ -1,0 +1,447 @@
+nama_sekolah,npsn,sekolah_id_enkrip
+SKB KABUPATEN BUNGO,P2960354,BA121D032F70C5C092D0                                                                                
+SKB PORSEA ,P9970065,B1A413E32ABA3B680FA9                                                                                
+SPNF SKB KOTA CIREBON,P9954248,9C52949B08A57CB36C3C                                                                                
+PNF SKB,P9996365,8853B8A55CE4948A85B0                                                                                
+SKB Kabupaten Bone,P9954175,55249EE426C87F9D54D8                                                                                
+SKB KOTA TANJUNGPINANG,P9969990,3A9F7B0EA940C814D5E4                                                                                
+SKB, KAB. KOLAKA,P9948220,4584F548F4FC452B3FDC                                                                                
+SKB KABUPATEN BOALEMO,P9954369,185EB6D4196D40B261CA                                                                                
+SKB KOTA PANGKALPINANG,P9948403,AC217FA4B114D297A3BA                                                                                
+SKB MOPIDO,P9962697,6B0901C60B8572C03E25                                                                                
+SKB WONOGIRI,P9959913,0AA757E09EC64ADA84D0                                                                                
+SKB BALIKPAPAN TIMUR,P9945711,F65CF8B0A105DC9C5FED                                                                                
+SKB DISDIKBUD ACEH SELATAN,P9970007,9FF6777398E239FC6DE8                                                                                
+SKB II TANAH DATAR,P9970045,BAC8F311D478CF004E01                                                                                
+SKB Tanah Bumbu,P9970262,4FC2DD1F2E8FCA800466                                                                                
+SKB LABUHANBATU,P9963179,597855CBA08C5DCCF885                                                                                
+SKB KABUPATEN NGANJUK,P9970334,19920015D1B31D8B3DC7                                                                                
+SKB Kabupaten Seluma,P9970226,F36C5CCB4491D2252D60                                                                                
+SKB KOTA CIMAHI,P9959904,D1C8834E520EBDDC52D1                                                                                
+SPNF SKB WALMAS,P9959660,34AAAD78E0457134A997                                                                                
+SKB NATUNA,P9970341,EF34D0A1EC633357DF2B                                                                                
+SKB SONDER,P9954349,E64D399D2CFD2ADEDCE0                                                                                
+Skb Kota Solok,P9948162,9E0C24466005C63674C3                                                                                
+SATUAN PENDIDIKAN NONFORMAL (SPNF) KABUPATEN BINTAN,P9970529,0D6F93C30CFDF1A0E4D7                                                                                
+SKB SEBATIK,P9962889,500831FE13F1C4402840                                                                                
+SKB Balikpapan Utara,P9952475,B2EC4741AC2E43F7FF77                                                                                
+SPN SKB MALRA,P9956821,75D91DE1C579D8BB506D                                                                                
+SPNF SKB KOTA BUKITTINGGI,P9959893,A289BA20B84639C32640                                                                                
+SKB KEBUMEN,P9952843,9A7F1DE56959190BC252                                                                                
+SKB KABUPATEN ENDE,P9970219,0B4FB8C5BA6DF1178996                                                                                
+SPNF SKB Kab. Kerinci,P9970441,48F18B59F933BD2402E7                                                                                
+SKB KABUPATEN SUKOHARJO,P9952648,4338D2117BF09E615F3A                                                                                
+Satuan Pendidikan Non Formal SKB Sangatta Selatan,P9970257,71539DDB81E79EC72CFD                                                                                
+SKB MAJALENGKA ,P9963040,3F9F35279F9B8A8F2F39                                                                                
+SKB KOTA METRO,P9952513,1F2394B2F4D0FA65CFD0                                                                                
+Satuan Pendidikan Non Formal Sanggar Kegiatan Belajar(SPNF-SKB) Kab.Dharmasraya,P9959710,F22877AEA03423B24E78                                                                                
+SKB TINANGGEA,P9959761,D1EBEC9A5D18E5CFB3A3                                                                                
+SKB MAPANDE,P9954302,53940789F4940C1AC6F8                                                                                
+SKB KAB.BUTON,P9957084,042663505D7A13C86270                                                                                
+UPT SATUAN PNF SKB,P9959689,625364718B603429C91E                                                                                
+SPNF TOMPASOBARU,P9984800,BF2C149747CECD6B2F57                                                                                
+Satuan PNF SKB Kota Semarang,P2965477,559CD86173DDA1CBF7CB                                                                                
+UPTD SKB LAMPUNG TIMUR,P9952552,9320CACA670846ACECF2                                                                                
+SKB KABUPATEN SUMENEP,P9945654,08299B9DE80AE7137401                                                                                
+SPNF WIL II,P9954079,7DC3D74C9CFBAFC1AA60                                                                                
+SKB KOTA TIDORE KEPULAUAN,P9963020,B7A55D0E468EEA06748C                                                                                
+SKB KABUPATEN MUSI BANYUASIN,P9959914,A63CE05CB1D4D7DDE296                                                                                
+SKB KAB. PIDIE,P9954234,1134FDC62F7BABA3091A                                                                                
+Sanggar Kegiatan Belajar (SKB) Bintuni,P9947985,E3E86658F9B2A8B4225A                                                                                
+SPNF SKB KLATEN,P2962074,C5EDF83D5BA7F497442C                                                                                
+SKB MANDAILING NATAL,P9959925,5FBCC527932067DF1F81                                                                                
+SKB REJANG LEBONG,P9963062,541E74E91FED78D7A033                                                                                
+SPNF SKB H. DARIYAH,P9959677,180A1CFC12DEB2650DBD                                                                                
+UPTD SPNF SKB UNGARAN,P9962735,3685E5A553E20A8C6E57                                                                                
+SKB KABUPATEN SIGI,P9963107,0EFD98B0BB318B5A7299                                                                                
+SKB KOTA BINJAI,P9963092,B2624369AB1B37E9B887                                                                                
+SPNF SKB Bone Bolango,P2965081,1DDAF4BFEB46FF43B63F                                                                                
+SKB  KAB. MAMUJU,P9947929,A1722B3AB6E88D7C5E6C                                                                                
+SPNF SKB KAB.SOLOK,P9963167,6FA34A486584EED7FAB0                                                                                
+SKB MAVALI,P9954303,DC0EE0BBDEA4AC5F83A1                                                                                
+SKB Kota Banjarbaru,P9962864,64148707251340A59996                                                                                
+SKB KONAWE UTARA,P9959940,635A59C084D002BD13F0                                                                                
+SKB GEDONG TATAAN,P9959954,FE610BE850DE2E928F06                                                                                
+UPTD SPNF SKB  KOTA BANJAR,P2960303,20FBEC90C4BC66C8D6D8                                                                                
+SPNF SKB TIMOR TENGAH UTARA,P9954094,0919CAEFFBC93D62CFA9                                                                                
+SKB KABUPATEN DOMPU,P9970019,FB0152E125497973DE74                                                                                
+SKB Rokan Hulu,P9962967,465C796394FEBE676A04                                                                                
+SKB REMBANG,P9963098,508F8A1382523877BC73                                                                                
+SPNF SKB BONDOWOSO,P9970296,5A47136E395B31CC2B7C                                                                                
+UPT SPNF SKB Kepulauan,P9970214,5DD34D1B602605D5BBBE                                                                                
+SPNF SKB KABUPATEN KAUR,P9960014,9040A6CBC6AF76D18BC7                                                                                
+SPNF SKB KABUPATEN KENDAL,P9948534,11236DB6D28BE439C701                                                                                
+SKB Temanggung,P9959935,767C14235E17F7A88B1B                                                                                
+SKB KAB. TOJO UNA-UNA,P9960034,53E3CFEC4E9EE9AC6507                                                                                
+SPNF - SKB KABUPATEN CIAMIS,P9963024,879B8A43D6FCF9120764                                                                                
+SATUAN PENDIDIKAN NONFORMAL KABUPATEN LOMBOK BARAT,P9962806,2729771168F25382361E                                                                                
+SKB PADANG LAWAS UTARA,P9960031,BE0512161E4555C1E3CE                                                                                
+SANGGAR KEGIATAN BELAJAR,P9984803,64D8FDD7F21AE259C7DD                                                                                
+UPT SPNF SKB Daratan,P9970215,64D9D587D68A863CACA3                                                                                
+SANGGAR KEGIATAN BELAJAR (SKB) JEPARA,P9954390,8E4D983CEA34F51587E2                                                                                
+SPNF SKB BINTAUNA,P9954429,9A972836B0EFFABB110B                                                                                
+SKB KOTA TERNATE,P9956837,FA0F1B5AB5F1B36DBAB4                                                                                
+SPNF SKB BANJARNEGARA,P9959990,EA9D81F9928FCAED543F                                                                                
+SKB OGAN ILIR,P9947922,3702E822B380CC8997B7                                                                                
+SKB SEJIRAN SETASON MUNTOK,P9952798,9FF8CD98516F487ACD1A                                                                                
+SKB KRAKSAAN,P9947701,7492622131F89D1DE0E0                                                                                
+SKB Lima Puluh Kota,P9954325,8212C1A3B8BC740B111D                                                                                
+SKB KOTA KUPANG,P9956856,15BCF651432E9E78098C                                                                                
+SPNF SKB GU,P9970490,76516A2DBC46D9FE670F                                                                                
+SANGGAR KEGIATAN BELAJAR,P9960039,881E7307C0A2F52E98CE                                                                                
+UPTD SPNF SKB SALATIGA,P9952699,964BB7AA8776A50DE4FC                                                                                
+SKB BANYUASIN,P9956850,8D8297425741B098C2F2                                                                                
+SPNF SKB PRINGSEWU,P9959795,F1A93FD0DB8A09BA42B4                                                                                
+SKB BANTUL,P9952556,DD15830F8EFE5170916D                                                                                
+SPNF-SKB KERSANA,P9970315,E58AC213DBE2F7A7DD18                                                                                
+SPNF SANGGAR KEGIATAN BELAJAR (SKB),P9984356,B521E55835391B7A7070                                                                                
+SANGGAR KEGIATAN BELAJAR KABUPATEN PENUKAL ABAB LEMATANG ILIR,P9970333,9CD15DEA67E5CA5DBCBA                                                                                
+SKB GROBOGAN ,P9954376,7668DA51417F9D01B251                                                                                
+SKB KATINGAN HARATI,P9959997,7667D37DD33F0E32C20E                                                                                
+SKB SINTANG ,P9962667,A756927D79082451C8F0                                                                                
+SKB Kabupaten Kupang,P9970167,E8055A2C48F4DE63CDD2                                                                                
+SKB PASAMAN,P9945779,06E849B76E390BBFC4BD                                                                                
+SKB POHUWATO,P9956936,403F15988C6613C58AC7                                                                                
+SKB KOTA YOGYAKARTA,P2960844,1AA052A9675D9A0D0401                                                                                
+SPNF-SKB WILAYAH II,P9970508,EB46BE7CA1C2DF1B70D7                                                                                
+SKB KABUPATEN MAGELANG,P9952492,3D587BA9CF7AEBE5FF4D                                                                                
+SKB LOMBOK TIMUR,P9962772,877B97411E4464B466DD                                                                                
+SPNF MODOINDING,P9984886,CC8C8CDBFDF13B7856F8                                                                                
+SKB Kabupaten Tapin,P9968075,5AD8B8F30771CBB8ADAF                                                                                
+SKB KAB. SERAM BAGIAN TIMUR,P9970636,9B9B980C36D254388867                                                                                
+SKB TABALONG,P9948319,BA79AD13C8260F519FCA                                                                                
+SKB KABUPATEN BENGKULU SELATAN ,P9959968,C0B03B57C111216675CF                                                                                
+SKB BLORA,P9952584,0157B41B9DD4E3DA6D34                                                                                
+SKB KABUPATEN SERANG,P9970198,62CA3B07BBE148595748                                                                                
+SKB Purwokerto,P9952499,BA0D79C7797EA9AA049D                                                                                
+SPNF SKB BENGKULU TENGAH,P9962676,D70AAA4573521727CA5E                                                                                
+SKB KOTA JAMBI,P9945683,F569E67123BDFE2C96A8                                                                                
+SPNF SKB kota Pematangsiantar,P9970332,3DDC8E8C5AFE0B4EBB3D                                                                                
+SKB OKU,P9959888,EDF7B01A9CA4CEF535BC                                                                                
+SKB Karawang,P9962927,64C3362F50895F542BF1                                                                                
+SPNF SKB Padang Panjang,P9948215,9FF7634A5E864F6E4090                                                                                
+UPTD SPNF SKB PAREPARE,P9970280,D98E6F1B739BD8E225C4                                                                                
+SPNF SKB TAPANULI SELATAN,P9952911,F34F01A8812ED751D0B0                                                                                
+SKB KABUPATEN LEMBATA,P9963175,E7C70B53E14B60EDE051                                                                                
+SKB KUBU RAYA,P9952915,F9DBF444D6EE28EF0323                                                                                
+SPNF SKB Kota Manado,P9960012,7FD08B5BC1AF99243602                                                                                
+SPNF - SKB Buleleng,P9952888,1969C2933162924AFDB6                                                                                
+SPNF SKB SIKKA,P9963182,6A3DD6F4B3632D7080C7                                                                                
+SANGGAR KEGIATAN BELAJAR (SKB) KOTA PRABUMULIH,P9996570,3B8144294C41D55BCB74                                                                                
+SKB LAMPUNG SELATAN,P9970344,44008BCB2CB79FFD5E92                                                                                
+SPNF SKB BANJAR,P9956933,1AABD0DE5B93F54DBE92                                                                                
+SKB SUMBA TENGAH,P9954396,2E00D648A0EF5BAA5AC8                                                                                
+SKB CILACAP,P9948532,C0C645E525366A927CA3                                                                                
+SKB Kota Bontang,P9948476,188B7554C9193FE43FE9                                                                                
+UPTD SPNF SKB KABUPATEN KLUNGKUNG,P9984330,331E30C1F2BEB6C23037                                                                                
+SKB MUNA,P9962878,44D38C09468305A22FDF                                                                                
+SKB Kota Samarinda,P9948327,BC08498A215D3DB88E91                                                                                
+SPNF SKB ENREKANG,P9947977,1469F716531B2EDF2BE8                                                                                
+SANGGAR KEGIATAN BELAJAR (SKB) RADEN MATTAHER,P9996934,37FFF261704890B82037                                                                                
+SPNF SKB KOTA TOMOHON,P9962817,AD27FD9BF9927BF19558                                                                                
+SPNF SKB LUBUK PAKAM,P9952525,756207C951023997C3E8                                                                                
+SKB KUTAI BARAT,P9960016,A0CF54896F54C1692B3C                                                                                
+SPNF SANGGAR KEGIATAN BELAJAR (SKB),P9970680,5A051F25B1F921E1EE39                                                                                
+SKB BELU,P9968056,A52D3EAEFADF0326759C                                                                                
+SKB LIMBOTO,P9948430,4DCF6AE68DA97413B804                                                                                
+SPNF - SKB WILAYAH III,P9970583,96559559985174B11843                                                                                
+SKB KOLAKA TIMUR,P9959659,3026D61CB9AEDD071C13                                                                                
+SKB BUOL,P9956926,3B941137427FC281C361                                                                                
+SKB KOTA TASIKMALAYA,P9962727,60C3FCEC989E7FE3E912                                                                                
+SKB KABUPATEN TANGERANG,P9970187,D96000BEC171205CBD23                                                                                
+SPNF - SKB KABUPATEN ACEH JAYA,P9985043,07CC66229C2970BCF11C                                                                                
+SKB PANGKAJENE DAN KEPULAUAN,P9948373,462EBEBE76BE8BDFA124                                                                                
+SKB Kabupaten Aceh Timur,P9954136,7AAD081BF65A6A40BE14                                                                                
+SKB OKU SELATAN,P9985038,B98EF7698BC4F0F891E1                                                                                
+SKB KAB.LEBAK,P9980055,17613F01CD7E914BC81C                                                                                
+SPNF SKB SONGULARA,P9956894,2780A7916566327CCB5F                                                                                
+SPNF SKB KOTA DEPOK,P9970384,FDBBAB51237AA0AE277A                                                                                
+SPNF SKB KOTA BEKASI,P9962957,096FAED4E33DA8616FA9                                                                                
+SKB KABUPATEN SLEMAN,P9959833,5ACE030E1B53FACF5BED                                                                                
+SKB TUTUYAN,P9963095,31C4529996823E296F32                                                                                
+SATUAN PENDIDIKAN NON FORMAL SKB SANGATTA UTARA,P9948091,B57ED3B2610365E07546                                                                                
+SKB BANGGAI,P9948206,3579EFF47BA67F6211CB                                                                                
+SKB KOTA PAYAKUMBUH,P9970073,AA70A2F53C8FE6828EAA                                                                                
+SKB MESUJI INDAH,P9984295,445E77C20EA30A3BCD80                                                                                
+SKB SPNF KABUPATEN TEGAL,P9959671,201F4DD93F32466642AC                                                                                
+SKB KAKAS,P9952768,73DE8D713CDA6357318F                                                                                
+SKB ACEH UTARA ,P9948312,5D7C9D43F4E62928E1E2                                                                                
+SPNF SKB BATANG HARI,P9996171,6FC2CE8A652DD356C293                                                                                
+SPN SEJENIS SKB KABUPATEN NIAS,P9963162,0342BEB653ED1883AE76                                                                                
+SPNF SKB Kabupaten Kepulauan Sula,P9970254,BD1F6521785D0DBCF599                                                                                
+SKB Batang,P9934703,75071C3E5F1205D3E719                                                                                
+SKB KABUPATEN WONOSOBO,P9948196,CC919A3794D1A27C8899                                                                                
+SKB Kabupaten Badung,P9962766,CDB70626039FB94805E1                                                                                
+SANGGAR KEGIATAN BELAJAR MOROWALI,P9962956,E8E041152158B910E04E                                                                                
+SKB SIDRAP,P9959937,AF5FEB10DCFE591C4C35                                                                                
+SKB Kabupaten Jembrana,P9970098,4B19BD1F131FB4264515                                                                                
+SPNF SKB KOTA BANDA ACEH,P9970432,920015FC1F646993B921                                                                                
+SPNF SKB Kabupaten Hulu Sungai Tengah,P9962830,AEFC28C337C7AEE9F9EC                                                                                
+SPNF SKB UJUNG PANDANG,P2970079,B42B6E5BA90EB1BD8B48                                                                                
+UPTD Satuan PNF SKB Aimere,P9952511,2A6CAF50FC1941B63CE5                                                                                
+SKB KABUPATEN PURWAKARTA,P9970501,0F9E0F66C480D801F1F6                                                                                
+SPNF SKB KABUPATEN TASIKMALAYA,P9970190,0FF885BCB38EF832E542                                                                                
+SKB KABUPATEN SUMBA TIMUR,P9970249,F9A8D943B7270EBF39FB                                                                                
+Sanggar Kegiatan Belajar (SKB) Kota Tangerang Selatan,P9985006,BDCE471107A44725E189                                                                                
+SKB Kabupaten Rote Ndao,P9970235,2841AE725EC0157A40DA                                                                                
+SKB Kota Sabang,P9970231,7E2E028B1AB7B5371206                                                                                
+SKB KABUPATEN SAMBAS,P9969974,7A05CF015E27823348F1                                                                                
+SKB Balikpapan Tengah,P9952473,0C5706D469C7948BD343                                                                                
+SKB KABUPATEN GOWA ,P9970118,9F57178C851A576243D1                                                                                
+SKB Palopo,P9960040,7E238A911B3F7411AD7C                                                                                
+SKB KOTA SUKABUMI,P2964206,F3FC74D336FD12429E8E                                                                                
+SKB KOTA BANJARMASIN,P9962901,63416AFD305757FB0604                                                                                
+SATUAN PENDIDIKAN NON FORMAL SKB WILAYAH 1,P9952864,3EA9181BA7942C489F80                                                                                
+SKB ACEH TAMIANG,P9970225,DD70365B831643756975                                                                                
+SKB (SANGGAR KEGIATAN BELAJAR) KOTA BIMA,P9970266,48BF6D6C250CD530D5AC                                                                                
+UPT SPNF SKB KABUPATEN KAMPAR,P9959898,4C8199EE6808EF7D6931                                                                                
+SKB KOTA SAWAHLUNTO,P9959992,B342E1A81835990178A0                                                                                
+SKB BANGGAI LAUT,P9968109,9AF10CD4D226DCB863C4                                                                                
+SKB KABUPATEN KEPULAUAN TALAUD,P9970545,DAD21D21A80C039459D4                                                                                
+SKB MINAHASA UTARA,P9959887,EB7C503E08B79D2CACBF                                                                                
+UPTD SPNF SKB LARANTUKA,P9960045,25E73BD0E569372989B7                                                                                
+SPNF TARERAN,P9984822,AB419D7B4476C282F838                                                                                
+SKB KALIBAGOR,P9959724,B5BCF918060E705CB5ED                                                                                
+SKB KOTA BAUBAU,P9948234,975115A06C9A2FE95773                                                                                
+SATUAN PENDIDIKAN SANGGAR KEGIATAN BELAJAR KAB.KARANGASEM,P2967017,E458D858EDB0F1EC5103                                                                                
+SKB KOTA PALANGKA RAYA,P9970337,1AF29DAAEEF0B751812A                                                                                
+SKB PEMALANG,P9956946,71DE30C6C682EC8FF9B4                                                                                
+SATUAN PENDIDIKAN NONFORMAL SANGGAR KEGIATAN BELAJAR (SKB) KOTA TUAL,P9984557,8198C8DCDD08CE6E2448                                                                                
+SKB KAB.DOGIYAI,P9970224,5B0B1176DB538BD20473                                                                                
+SPNF SKB KOTA KOTAMOBAGU,P9954347,06E7774FCD6DD8CE3C81                                                                                
+SKB BALANGAN,P9948204,557C956EEFE67A7BBC2F                                                                                
+SKB KOTA PALEMBANG,P9959714,BFE8C177B617FDE19DEF                                                                                
+SPNF SKB Kabupaten Bangli,P9970238,A9817F1B4D937FEF840F                                                                                
+SKB WONDAMA,P9954132,8A3112C978F30F1F27B2                                                                                
+SKB POSIMPOTOVE,P9969988,D806150C47D027FF9AA9                                                                                
+SPNF TENGA,P9984754,8DDE7486491D7D7B3E8E                                                                                
+SKB SPNF WILAYAH 2 KOTA PADANG,P9959890,6D212D6E3DB8A2F10FF3                                                                                
+SKB WAKATOBI,P9954252,7348ED9EBCBB773D7F89                                                                                
+SKB Asahan,P9959919,6AB96CE6C572990D831D                                                                                
+SKB MODAYAG,P9962959,F51DD61176EA9D376B60                                                                                
+SATUAN PENDIDIKAN NONFORMAL SANGGAR KEGIATAN BELAJAR TENGKU SOELOENG TJANTIK,P9996166,130D9629D4F57B692174                                                                                
+Satuan Pendidikan Nonformal SKB,P9947947,7650EAB9F5AD3AD15A6B                                                                                
+SKB Minahasa Tenggara,P9970667,F0C89BE520B8DDFC0D3D                                                                                
+SKB Kota Mataram,P9962879,DD34A42AAC2D750FE291                                                                                
+SKB BARITO UTARA,P9960028,F96A964A1B31565E850F                                                                                
+SPNF SKB BANGKA SELATAN,P2965536,A1AC29A5EF8BF2ADDECA                                                                                
+SKB BENUA,P9957004,C2543D4D8E97106257D0                                                                                
+SPNF SKB KOTA PEKANBARU,P9954382,DD573DFE86493A1A37F7                                                                                
+SKB SABU RAIJUA,P9954191,FD369939061B7E04F6C8                                                                                
+SKB WAWONII,P9962961,555E52E2D2EB61CA42CC                                                                                
+SPNF SKB  SIJUNJUNG,P9959845,4F7CFEE30D6B5E96407C                                                                                
+SKB Borong,P9952491,CB509BB235B3C2678BB6                                                                                
+SKB ATINGGOLA,P9959851,069A2496F468D8E6ED6B                                                                                
+SANGGAR KEGIATAN BELAJAR KABUPATEN TANA TIDUNG (SPNF SKB KABUPATEN TANA TIDUNG),P9997290,785032E0DAF61404C02C                                                                                
+SKB KABUPATEN ACEH TENGAH,P9963004,8D478BEBCF85764BDE40                                                                                
+SKB KABUPATEN LINGGA,P9997380,61CCED9F1367288F0D43                                                                                
+SKB Kab. Barito Kuala,P9956886,368FBFBA6D721546E88E                                                                                
+SKB KOTA MALANG,P9952737,BDFCE39FEDD309815452                                                                                
+SPNF SKB MAMASA,P9952702,FF0A86E9647BD0716C3C                                                                                
+SKB MAJENE,P9962984,B13459A1C4A1BD5844F2                                                                                
+SKB KOTA BANDAR LAMPUNG,P9963099,53FB58793F5855B3C468                                                                                
+SKB KWANDANG,P9959850,5837CF96FFAD2614141D                                                                                
+SPNF SANGGAR KEGIATAN BELAJAR KABUPATEN KEEROM,P9970283,2CF4B3BB0A3D54FE9A56                                                                                
+SKB KULON PROGO,P9948108,FF38A6BC6A2E0BEDBC67                                                                                
+SKB TENGGARONG,P9952678,B6697EA1C5F90D9F9358                                                                                
+ SKB KOTABARU,P9954362,E07D6AE14293A90B7A09                                                                                
+SKB KABUPATEN LAHAT,P9963051,162E6F22AEA328B127A8                                                                                
+UPTD SPNF SKB BIREUEN,P9960024,0FD507BA5585D48AE606                                                                                
+SKB MOJOAGUNG,P9948474,7C1BC4ACF40503747FDA                                                                                
+SPN SKB KOTA KENDARI,P9957060,7025375F6AF8EA70B58D                                                                                
+SKB BATUDAA,P9948431,E34A748E8DAEEACF61C0                                                                                
+SKB TOMBARIRI,P9952767,486A1B1C975EFC40EFE8                                                                                
+SKB TOMBULU,P9952766,078005BB7C55F24F845A                                                                                
+SKB SINJAI,P9970185,9E683DBEFB4A1356368B                                                                                
+SKB KOTA PARIAMAN,P9963035,8976423C407A9C915E2F                                                                                
+SKB Negeri Mempawah,P9962902,F74A42C774145F338760                                                                                
+SKB KOTA BOGOR,P9970685,A343E30D5EBED5BA0F2E                                                                                
+UPTD SKB MAGETAN,P9959866,39B799CAC350676FEE4F                                                                                
+SKB KAB. BOGOR,P9963149,53AA78430A97FB359DCE                                                                                
+SPNF SKB LAMPUNG BARAT,P9956897,A4D173195A99DA44BFF3                                                                                
+SKB KABUPATEN BENGKAYANG,P9970576,A155241AA76B4109A818                                                                                
+SKB Negeri Poso,P9952738,CA4921BFDB221907E66B                                                                                
+SKB Balikpapan Barat,P9952496,A067E16AAC46560A7E2D                                                                                
+SKB PULUBALA,P9997431,2E3B85D7D8298E11A8BC                                                                                
+SKB KABUPATEN SUPIORI,P9984878,E002B4B795CA4F50C3EA                                                                                
+SPNF SKB Merauke,P9952804,C83E1373240E93BF4E99                                                                                
+SKB BILUHU,P9997430,21C0D1275DD81F97025B                                                                                
+SKB HALMAHERA UTARA,P9963073,8B27FA7F51479B799A69                                                                                
+SKB HULU SUNGAI SELATAN,P9962718,EC5609BE40EB9EE26E3B                                                                                
+SKB Kabupaten Agam,P9962926,13AF9882644850E52534                                                                                
+SKB MUTIARA PELANGI KASIH,P9984361,8D2B1A7A6D9F559C1366                                                                                
+SKB BARRU,P9970089,BCB3981899D9377B2ECA                                                                                
+SKB KOTA BANGUN,P9952677,9684B7340903703E99A3                                                                                
+SKB LAMPUNG TENGAH,P9956789,F9852ADA8A603851316F                                                                                
+UPT SKB BELITUNG,P9956944,A0B391986C34E277DA7F                                                                                
+SPNF SANGGAR KEGIATAN BELAJAR,P9984657,FC52B0C0B9D143D18292                                                                                
+SPNF SKB KOTA LHOKSEUMAWE,P9947923,24667464FF9939DD7BB0                                                                                
+SATUAN PENDIDIKAN NON FORMAL SANGGAR KEGIATAN BELAJAR (SKB) BARITO SELATAN,P9970370,53409853B5AC6E81F187                                                                                
+SPNF SKB KOLAKA UTARA,P9959912,35DA282BEEC05681D003                                                                                
+SPNF-SKB WILAYAH I,P9970517,3FC36E989EAF923AD854                                                                                
+SKB KABUPATEN INDRAMAYU,P9970139,F4A4704C026B00FBC522                                                                                
+SKB SUMEDANG,P9962780,D9917CD240600FE701EE                                                                                
+Satuan Pendidikan NonFormal Sanggar Kegiatan Belajar (SKB) Kabupaten Solok Selat,P9957053,BA3A490CF91C2671BCC6                                                                                
+SPNF SKB KABUPATEN TABANAN,P9963155,14C2AD2D27846926A214                                                                                
+SKB NEGERI SURABAYA,P9984908,BB673DF913A3E92B6B07                                                                                
+SKB KOTA AMBON,P9948387,219F3925B7125964FFD6                                                                                
+SKB Balikpapan Selatan,P9952472,C36668BADB7D4C12A07A                                                                                
+SPNF SKB ARGA MAKMUR,P9959751,F5E2E90E942CA84D494F                                                                                
+SKB KABUPATEN LANGKAT,P9970689,1D7DABA4DBDF00D8B687                                                                                
+SPNF SKB KEPAHIANG,P2963002,FB8AB758C0F3085F7092                                                                                
+SPNF SKB Kota Denpasar,P9948229,906AC2A6BED6FD0D53A2                                                                                
+SKB KAB. BANDUNG,P9963174,2549F453078B3C0F8739                                                                                
+SKB KAB. BANGGAI KEPULAUAN,P9957029,572064C7ABB33C7A5280                                                                                
+SKB INDRAGIRI HULU,P9952926,D55BDE5243AE0472BDC9                                                                                
+SKB Kabupaten Padang Pariaman,P9948292,0755C4F2CB0FF6DD797E                                                                                
+SPNF SKB DISDIKBUD KABUPATEN ACEH SINGKIL,P9970070,6D0D461FA1E3BDECC819                                                                                
+SKB POLEWALI,P9954167,9BEF2D39D9A5AE8192DD                                                                                
+SATUAN PENDIDIKAN NON FORMAL SKB KAB. PONOROGO,P9952733,A047D268A4513E3CF425                                                                                
+SKB MUKOMUKO,P9970248,38FEAFA5F7750D20385B                                                                                
+SKB KOTA TEGAL,P9959977,3439CD24D3C2DD325844                                                                                
+SKB SURAKARTA,P9952751,7A9C5741BF98B520BB1C                                                                                
+Satuan Pendidikan Nonformal SKB Tapanuli Tengah,P9959825,06E6BA51F5845521A52A                                                                                
+SKB KOTA GORONTALO,P9948535,13067652FCA436180C00                                                                                
+SPNF SKB KABUPATEN KARO,P9956966,BC990A150235B4D57E1C                                                                                
+SKB Halmahera Barat,P9970006,4A536B03A664C0CF1C6A                                                                                
+SKB MANOKWARI,P9954262,AB00AC7183F880C9B445                                                                                
+SKB Bantaeng,P9948022,238586EBE7C6BB1A5942                                                                                
+SPNF SKB HULU SUNGAI UTARA,P9969970,98A8A817F48430F95D43                                                                                
+SKB KOTA BATAM,P9952456,55D0F13894640DC87160                                                                                
+UPT Satuan Pendidikan Non Formal Sanggar Kegiatan Belajar (SKB),P9970656,C66E32C50C8BA8A705F9                                                                                
+SKB MOJOKERTO,P9952734,E949EF755F5AA51CB01F                                                                                
+SKB MASOHI,P9952815,A28C5E784896F9FD45D0                                                                                
+SKB GUDO,P9948366,683B649FD8127279566F                                                                                
+SPNF SKB KABUPATEN SIMEULUE,P9956883,20D7C93F423955B1600F                                                                                
+SKB LEMBEAN TIMUR,P9952765,1D734C78B5129A1A4ED6                                                                                
+SKB MUARA JAWA,P9952698,E6B5FF6B0C69D3EFCAEB                                                                                
+SKB MORAMO,P9957068,01A1827793D15B73555E                                                                                
+SPNF SKB KOTA BENGKULU,P9970237,38168693A47559A723E6                                                                                
+SKB. KOTAWARINGIN BARAT,P9970158,17C0CDD8291696F4964A                                                                                
+SANGGAR KEGIATAN BELAJAR KLU,P9959805,AF75F948F3E19A0E0CA9                                                                                
+UPT SPNF KABUPATEN PURWOREJO,P9954174,87F82C7AA24BE3FA80AE                                                                                
+SKB LEBONG,P9947980,5F876B71091D353E4509                                                                                
+SKB Kabupaten Soppeng,P9945791,9B19E3F6DE14FBF0B8D5                                                                                
+SKB RANOMEETO,P9956866,B02F3FAD0ED416DD22C2                                                                                
+SKB - SPNF KOTA PADANGSIDIMPUAN,P9952505,995BF207528FC00448C3                                                                                
+SKB ALOR,P9954292,934D7027807E036F2DD6                                                                                
+SKB AJIBARANG,P9959723,2A304B46B624BC11574A                                                                                
+SPNF TUMPAAN,P9984718,7CF4CDD3477C779B939F                                                                                
+SPNF SKB KOTA SIBOLGA,P9948083,07BEA15040364D1DC6BC                                                                                
+SKB TANJUNG JABUNG TIMUR,P9962675,6B122F4BC071AB940E18                                                                                
+SKB ACEH BESAR,P9962872,F7085628687B6B89A47F                                                                                
+SPNF SKB BIRINGKANAYA,P2970085,7E08119969CCE3A57326                                                                                
+SANGGAR KEGIATAN BELAJAR KUALA KAPUAS,P9970298,8224A35D89CFB9C13B48                                                                                
+SPNF MOTOLING,P9984799,280C8822915981426C7D                                                                                
+SKB SPNF WILAYAH 1 KOTA PADANG,P9959889,B5DFBFCED6CBF896898B                                                                                
+SKB PELALAWAN,P9970331,68F434C87EEB999C664F                                                                                
+UPTD SPNF SKB SUSUKAN,P9962736,52486EEDC13551210BBF                                                                                
+SKB NEGERI 2 SAMARINDA,P9996805,8E5B5C076B0DAC989A0E                                                                                
+UPT-SKB KABUPATEN DAIRI,P9952917,6E2145BE6AF94C0F6B77                                                                                
+SPNF SKB KOTA DUMAI,P9996456,97FBF8C5825A7A8DFEF2                                                                                
+SKB PACITAN,P9956860,CF7BD44B1757421CD9F4                                                                                
+SPNF SKB BOTO,P9959663,5192CDBB150F964AA677                                                                                
+SKB Sangihe,P9970179,7E81BB9937F359C7E220                                                                                
+SKB KABUPATEN BIMA,P9959939,8645F6671659934AD35B                                                                                
+SKB KAIDIPANG,P9954139,80AB216D562EEDE31146                                                                                
+SKB KAB. MUNA BARAT,P9970484,15EF14491EF9E227A25C                                                                                
+SKB HALMAHERA SELATAN,P9996838,CCF0E5ABF5625EA87FBA                                                                                
+SPNF SKB BELOPA,P9954127,5FA9FA0D66FF79846EDB                                                                                
+UPTD SPNF SKB Kabupaten Gianyar,P9970475,A605A4B02364BE090DCB                                                                                
+SANGGAR KEGIATAN BELAJAR (SKB) MEMPURA,P9997335,7569CCBB74BBDFAD1C14                                                                                
+SKB Sungailiat,P9962800,C2F6B6406F85BA04162A                                                                                
+SKB PINRANG,P9954379,89626C4D47EE08E2AEAF                                                                                
+UPT SKB TAKALAR,P9962890,07CEEB0DC28E1F940891                                                                                
+SKB KOTA GUNUNGSITOLI,P9962833,8708BDFE6C2F5373CA2F                                                                                
+SATUAN PENDIDIKAN NONFORMAL SANGGAR KEGIATAN BELAJAR,P9970175,F76C7A0CC5AB25DE94B8                                                                                
+SKB JENEPONTO,P9954268,CF66FD60EE3552F44AE8                                                                                
+SKB PASANGKAYU,P9970396,CE5EAE3BC7E72EEC0CFF                                                                                
+SKB HALMAHERA TENGAH,P9970625,1B3E2254A0698E359497                                                                                
+SATUAN PENDIDIKAN NONFORMAL SEJENIS SKB KABUPATEN PULANG PISAU,P9952605,537302B2B55D205A08BD                                                                                
+SKB PINOGALUMAN,P9954138,47EE589844DDE8F55863                                                                                
+SKB Kota Medan,P2963591,5CA9476DA31C80250569                                                                                
+SKB KABUPATEN CIANJUR,P9970186,369EC7EC21838408928B                                                                                
+SKB KUNINGAN,P9952681,587E3ECFA178F5AED4AF                                                                                
+SATUAN PNF SKB KABUPATEN BURU,P9952812,D143D7D7E46DE4CDAB9A                                                                                
+SKB BOLMONG,P9956815,F677F712D34F0B3AD9BF                                                                                
+UPT SKB WAY KANAN,P9970246,66B9EFC54C7A24296176                                                                                
+SPNF SKB KOTA PONTIANAK,P2967065,6834B05C9A0EEE750A7A                                                                                
+SPNF-SKB BOLANGITANG,P9954173,1FDBE70F74EBF920F03D                                                                                
+SKB Kota Serang,P9962712,15A9B84BB42CD2116796                                                                                
+SKB PANDEGLANG,P9970199,0A42C9C9E92CD3BAE0A3                                                                                
+SKB NIKA TIDI,P9984713,64EA004F761D53927824                                                                                
+SATUAN PENDIDIKAN NON-FORMAL SKB PULAU TALIABU,P9970539,FB4084A0D83760F31939                                                                                
+SKB GROGOL,P9970612,2655223F313B1CC4FB38                                                                                
+SKB KABUPATEN SAROLANGUN,P9984253,48D68C9A121E2B32BA2B                                                                                
+SKB MUSI RAWAS,P9959909,CBE59B36C5CB34EB81FC                                                                                
+SPNF SKB KAB. SUKABUMI,P9959835,35952A5D6E2247C86D95                                                                                
+SKB UPT KOTA BANDUNG,P9962758,33072198089FA0E0E58C                                                                                
+SKB SANGGAU,P9957042,E5473BDB030B04F1BF20                                                                                
+SKB TULANG BAWANG PINTAR,P9968122,8C52252F2DDCEE76F040                                                                                
+SKB BUTON SELATAN,P9984284,E10D50BB5F54FA5A7472                                                                                
+SPNF SKB SAKA PANDE,P9997094,F79E8CE197FF13FD283A                                                                                
+SKB KABUPATEN BEKASI,P9970230,F8FFEEAA17F5C4F8E84E                                                                                
+SPN SKB BOMBANA,P9959988,FA15A4AE8F0910FA6D3D                                                                                
+SKB OKU TIMUR,P9963091,BB34946E8E05DA225445                                                                                
+SKB SENGKANG,P9963171,E81D8B7F14B1487B936E                                                                                
+SPNF KABUPATEN KEPULAUAN YAPEN,P9970536,F0A13007903617CA9DF8                                                                                
+SKB KAB. PEKALONGAN,P9948008,56EAA39E0011032947CE                                                                                
+SPNF SKB KABUPATEN MUARO JAMBI,P9963156,1E6FE979DCF76E1F3F8D                                                                                
+SKB UNAAHA,P9962900,A0EBCC5B7683D44F3685                                                                                
+SKB KABUPATEN MALANG,P9962919,15C29CAD4AB61F8A65ED                                                                                
+SKB LAMPUNG UTARA,P9948159,1D090E6F4B7D8D165A9C                                                                                
+SKB BULUKUMBA,P9952615,1F1E1EE7686E5E004A62                                                                                
+UPT SKB PAKPAK BHARAT,P9962680,1E3D6E2301B111CA1EE0                                                                                
+SKB YPPK TILLEMANS,P9997508,049D11EFB81778022D54                                                                                
+UPTD SPNF SKB KOTA KEDIRI,P9970240,85A4062F8FCBC9655554                                                                                
+SKB SEKOLAH NON FORMAL NEGERI SUBANG,P9970150,8125B0F1E16EC619581C                                                                                
+SKB KABUPATEN MUARA ENIM,P9948434,C27C9D28062F5376A7B7                                                                                
+SPNF SKB MAMUJU TENGAH,P9984924,D68BB9256D2A597A458D                                                                                
+SKB PESISIR SELATAN,P9970002,71A484C35635261735CA                                                                                
+SKB KAB. MINAHASA SELATAN,P9954205,0676A57253787DCD5643                                                                                
+SKB N PASAMAN BARAT,P9947908,F5EB8B405B2DCAC7328F                                                                                
+SKB KABUPATEN SUMBAWA,P9948014,83D3288F91B50B7E8486                                                                                
+SKB Kabupaten Berau,P9970335,AB00D998BD9196957607                                                                                
+SPNF SKB DINAS PENDIDIKAN KAB. NAGAN RAYA,P9948212,F5DE06220CC6CCA1FDB4                                                                                
+SKB KABUPATEN TANGGAMUS,P9963111,3A4EFE9255B3798EB81E                                                                                
+SKB LOMBOK TENGAH,P9962863,14C39AC1A24794CD4EDA                                                                                
+SKB TOLANGOHULA,P9948456,8DEC47A614B14C45A643                                                                                
+SKB KOTA JAYAPURA,P9970305,62609C7B99B36063CC44                                                                                
+SKB KAB.PATI,P9952854,12AE9BFCFC914E952107                                                                                
+SKB I TANAH DATAR,P9970042,0A72167DE76FDD530F40                                                                                
+SPNF SKB PIDIE JAYA,P9984436,A5223F72B4B3B0FFFA8D                                                                                
+SKB Tana Toraja,P9970468,B9F1227C55A39F5C5BE7                                                                                
+SKB LAONTI,P9960021,81DDAE224B01AE67B397                                                                                
+SPNF SKB SIBOLANGIT,P9945822,8AA6897824F87D981418                                                                                
+UPT SANGGAR KEGIATAN BELAJAR (SKB) LUWU UTARA,P9996428,3E6C4C79FE407DA0D220                                                                                
+SPNF NEGERI SKB KETAPANG,P9945823,24CBE59BE05095B35A63                                                                                
+SKB Melati,P9959736,554F8931C62A14FB4C2A                                                                                
+SKB TONDANO,P9952822,80A99EBF5468DE2B5F47                                                                                
+Satuan PNF SKB Manggarai Barat,P9954306,6C1BA8C59C704E04AF50                                                                                
+SKB BURU SELATAN,P9959858,2126C25419F199D51FC1                                                                                
+SKB MAPPI,P9970446,8B9AFCD57F72AFFA8B48                                                                                
+SKB Demak,P9957036,BF19A1BE47B0A715D8D3                                                                                
+SPNF SKB KABUPATEN CIREBON,P9970686,4A2B0F93ECE89D57D9CD                                                                                
+SPN SKB KAB. GARUT,P9952868,60D35119FC3C15A16AE6                                                                                
+SKB Kab. Fakfak,P9984395,40B3E0FE1C09E00D1D68                                                                                
+SPNF SKB BOLAANG MONGONDOW SELATAN,P9948120,91EC9FF3B9C3EBAEA678                                                                                
+SKB NAGEKEO,P9959998,E5BC3FB54DB7A86D758F                                                                                
+UPT SKB BOYOLALI,P9970011,00D292B4455DBAD178BC                                                                                
+SKB KAB. PASER,P9968116,9B8D4325870B328C5702                                                                                
+SKB KASINTUVU,P9962784,3F0108DE1CB263C90A31                                                                                
+SKB Kab. Situbondo,P9959824,04F5765B2C23F12DE14E                                                                                
+SKB CERME,P9959809,E18CC87EEBD6C4BB670A                                                                                
+SKB Kab. Kotawaringin Timur,P9970216,8F76969A3942D622C9FA                                                                                
+SPNF SKB PELAIHARI,P9968096,832E6D55F9D25502BFA0                                                                                
+SKB  KABUPATEN MERANGIN ,P9954204,CAF9E592FA40B1C1D78E                                                                                
+SKB KABUPATEN ACEH TENGGARA,P9970184,E501190244C3AC58B048                                                                                
+SKB Buton Utara,P9957031,014F7CC39EB62E1DC762                                                                                
+SKB NUNUKAN,P9962887,4032925F400A67312D81                                                                                
+SKB RANDONG,P9969987,759AD3534A500DE2C31C                                                                                
+SKB KARANGANYAR,P9948398,6A3E073BE78CB0CCE98F                                                                                
+SKB KOTA PAGAR ALAM,P9963067,D76FEB74018618F6C2E1                                                                                
+SPNF SANGGAR KEGIATAN BELAJAR (SKB) KUANTAN SINGINGI,P9952712,B7DA1115EE5B5CA8EC64                                                                                
+SANGGAR KEGIATAN BELAJAR (SKB) MAROS,P9962685,96838824F431ECC84F36                                                                                
+SKB TRENGGALEK,P9962692,C2F046BBC5682980BC23                                                                                
+SKB Kota Bitung,P9960003,563A9BB3DE633BDEBC71                                                                                
+UPT SPNF SKB SIDOARJO,P9970534,3ECC13236B06795A0288                                                                                
